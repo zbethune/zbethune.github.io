@@ -29,20 +29,20 @@ footer:
     #   link: "#"
   follow:
     - name: Twitter
-      link: https://twitter.com/ZBethune
+      link: twitter.com/ZBethune
       username: "@ZBethune"
     # - name: Facebook
     #   link: https://facebook.com/YourFacebookUsername
     # - name: LinkedIn
     #   link: https://linkedin.com/in/YourLinkedInUsername
     - name: GitHub
-      link: https://github.com/zbethune
+      link: github.com/zbethune
     # - name: Dribbble
     #   link: https://dribbble.com/YourDribbbleUsername
     # - name: RSS
     #   link: /feed.xml
     - name: Scholar
-      link: https://scholar.google.com/citations?user=-Y1OcgEAAAAJ
+      link: scholar.google.com/citations?user=-Y1OcgEAAAAJ
 
 # Build settings
 markdown: kramdown
@@ -67,13 +67,13 @@ exclude:
 # Used for defeating caching
 version: 1
 
-lsi: false
-safe: true
-source: [your repo's top level directory]
-incremental: false
-highlighter: rouge
-gist:
-  noscript: false
-kramdown:
-  math_engine: mathjax
-  syntax_highlighter: rouge
+# lsi: false
+# safe: true
+# source: [your repo's top level directory]
+# incremental: false
+# highlighter: rouge
+# gist:
+#   noscript: false
+# kramdown:
+#   math_engine: mathjax
+#   syntax_highlighter: rouge
