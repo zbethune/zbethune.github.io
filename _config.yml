@@ -1,0 +1,78 @@
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
+
+title: Zach Bethune - Homepage
+description: >- # this means to ignore newlines until "baseurl:"
+  Homepage of Zach Bethune - Associate Professor of Economics - University of Virginia
+baseurl: "/" # the subpath of the site
+url: "https://zachbethune.com" # the base hostname & protocol for the site
+og_image: /assets/img/zach_bethune_uva.jpg
+# google_analytics: "UA-121636368-3"
+
+header:
+  pages:
+    - name: Home
+      slug: /
+    - name: Research
+    - name: Teaching
+    - name: Other
+
+footer:
+  show_powered_by: true
+  contact:
+    - name: Email
+      value: bethune@virginia.edu
+      link: mailto:bethune@virginia.edu
+    # - name: WeChat
+    #   value: YourWeChatUsername
+    #   link: "#"
+  follow:
+    - name: Twitter
+      link: http://twitter.com/ZBethune
+      username: "@ZBethune"
+    # - name: Facebook
+    #   link: http://facebook.com/YourFacebookUsername
+    # - name: LinkedIn
+    #   link: http://linkedin.com/in/YourLinkedInUsername
+    - name: GitHub
+      link: http://github.com/YourGitHubUsername
+    # - name: Dribbble
+    #   link: https://dribbble.com/YourDribbbleUsername
+    # - name: RSS
+    #   link: /feed.xml
+    - name: Scholar
+      link: https://scholar.google.com/citations?user=-Y1OcgEAAAAJ
+
+# Build settings
+markdown: kramdown
+sass:
+    style: :compressed
+plugins:
+  - jekyll-feed
+
+# Excluded items
+exclude:
+  - .sass-cache/
+  - .jekyll-cache/
+  - feed.xml
+  - gemfiles/
+  # - Gemfile
+  # - Gemfile.lock
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
+
+# Used for defeating caching
+version: 1
+
+# lsi: false
+# safe: true
+# source: [your repo's top level directory]
+# incremental: false
+# highlighter: rouge
+# gist:
+#   noscript: false
+# kramdown:
+#   math_engine: mathjax
+#   syntax_highlighter: rouge
