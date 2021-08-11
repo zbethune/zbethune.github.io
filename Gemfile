@@ -10,6 +10,7 @@ gem "jekyll", "~> 4.0.0"
 # Plugins
 group :jekyll_plugins do
   gem "jekyll-feed", "~> 0.12"
+  #gem "github-pages", "~> 217"
 end
 
 # Windows and JRuby does not include zoneinfo files, so bundle the tzinfo-data gem
@@ -23,3 +24,5 @@ end
 gem "wdm", "~> 0.1.1", :install_if => Gem.win_platform?
 
 gem "webrick", "~> 1.7"
+
+#gem "jekyll-sass-converter", "~> 1.5.2" 
