@@ -57,8 +57,8 @@ exclude:
   - .jekyll-cache/
   - feed.xml
   - gemfiles/
-   - Gemfile
-   - Gemfile.lock
+  # - Gemfile
+  # - Gemfile.lock
   - vendor/bundle/
   - vendor/cache/
   - vendor/gems/
