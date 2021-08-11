@@ -45,7 +45,7 @@ footer:
     - name: Scholar
       link: scholar.google.com/citations?user=-Y1OcgEAAAAJ
     - name: RePEc
-      link: ideas.repec.org/f/pbe832.html
+      link: https://ideas.repec.org/f/pbe832.html
 
 # Build settings
 markdown: kramdown
