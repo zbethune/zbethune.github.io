@@ -25,4 +25,4 @@ gem "wdm", "~> 0.1.1", :install_if => Gem.win_platform?
 
 gem "webrick", "~> 1.7"
 
-#gem "jekyll-sass-converter", "~> 1.5.2" 
+gem "jekyll-sass-converter", "~> 1.5.2" 
