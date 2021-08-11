@@ -38,6 +38,8 @@ profile_picture:
 
 <img src="../assets/img/uva_logo_color.png" alt="uva" width="280" class="center">
 
+
+
 <!-- Default Statcounter code for Personal Webpage
 http://www.zachbethune.com -->
 <script type="text/javascript">
@@ -55,3 +57,15 @@ src="https://c.statcounter.com/12335011/0/59050621/1/"
 alt="Web Analytics"
 referrerPolicy="no-referrer-when-downgrade"></a></div></noscript>
 <!-- End of Statcounter Code -->
+
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-HRSX1LP7F5"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-HRSX1LP7F5');
+</script>
+<!-- End of Google Analytics Code -->
