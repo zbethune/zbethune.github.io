@@ -32,9 +32,9 @@ footer:
       link: https://twitter.com/ZBethune
       username: "@ZBethune"
     # - name: Facebook
-    #   link: http://facebook.com/YourFacebookUsername
+    #   link: https://facebook.com/YourFacebookUsername
     # - name: LinkedIn
-    #   link: http://linkedin.com/in/YourLinkedInUsername
+    #   link: https://linkedin.com/in/YourLinkedInUsername
     - name: GitHub
       link: https://github.com/zbethune
     # - name: Dribbble
@@ -57,8 +57,8 @@ exclude:
   - .jekyll-cache/
   - feed.xml
   - gemfiles/
-  # - Gemfile
-  # - Gemfile.lock
+   - Gemfile
+   - Gemfile.lock
   - vendor/bundle/
   - vendor/cache/
   - vendor/gems/
