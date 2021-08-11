@@ -17,7 +17,7 @@ profile_picture:
 
 <h5> 
   <a 
-  style="color: #0b0e73" href="./assets/pdfs/ZB_CV.pdf" target="_blank" rel="noopener noreferrer"><b>Curriculum Vitae (pdf)</b>
+  style="color: #0b0e73" href="./assets/pdfs/ZB-CV.pdf" target="_blank" rel="noopener noreferrer"><b>Curriculum Vitae (pdf)</b>
   </a>
 </h5>
 <p style="margin-bottom:.7cm;"></p>
