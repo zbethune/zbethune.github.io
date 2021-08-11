@@ -30,20 +30,20 @@ footer:
     #   link: "#"
   follow:
     - name: Twitter
-      link: twitter.com/ZBethune
+      link: https://twitter.com/ZBethune
       username: "@ZBethune"
     # - name: Facebook
     #   link: https://facebook.com/YourFacebookUsername
     # - name: LinkedIn
     #   link: https://linkedin.com/in/YourLinkedInUsername
     - name: GitHub
-      link: github.com/zbethune
+      link: https://github.com/zbethune
     # - name: Dribbble
     #   link: https://dribbble.com/YourDribbbleUsername
     # - name: RSS
     #   link: /feed.xml
     - name: Scholar
-      link: scholar.google.com/citations?user=-Y1OcgEAAAAJ
+      link: https://scholar.google.com/citations?user=-Y1OcgEAAAAJ
     - name: RePEc
       link: https://ideas.repec.org/f/pbe832.html
 
