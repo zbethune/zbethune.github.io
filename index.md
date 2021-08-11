@@ -37,3 +37,21 @@ profile_picture:
 <p style="margin-bottom:0cm;"></p>
 
 <img src="../assets/img/uva_logo_color.png" alt="uva" width="280" class="center">
+
+<!-- Default Statcounter code for Personal Webpage
+http://www.zachbethune.com -->
+<script type="text/javascript">
+var sc_project=12335011; 
+var sc_invisible=1; 
+var sc_security="59050621"; 
+</script>
+<script type="text/javascript"
+src="https://www.statcounter.com/counter/counter.js"
+async></script>
+<noscript><div class="statcounter"><a title="Web Analytics"
+href="https://statcounter.com/" target="_blank"><img
+class="statcounter"
+src="https://c.statcounter.com/12335011/0/59050621/1/"
+alt="Web Analytics"
+referrerPolicy="no-referrer-when-downgrade"></a></div></noscript>
+<!-- End of Statcounter Code -->
