@@ -29,14 +29,14 @@ footer:
     #   link: "#"
   follow:
     - name: Twitter
-      link: http://twitter.com/ZBethune
+      link: https://twitter.com/ZBethune
       username: "@ZBethune"
     # - name: Facebook
     #   link: http://facebook.com/YourFacebookUsername
     # - name: LinkedIn
     #   link: http://linkedin.com/in/YourLinkedInUsername
     - name: GitHub
-      link: http://github.com/YourGitHubUsername
+      link: https://github.com/zbethune
     # - name: Dribbble
     #   link: https://dribbble.com/YourDribbbleUsername
     # - name: RSS
