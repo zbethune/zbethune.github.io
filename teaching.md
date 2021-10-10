@@ -9,7 +9,7 @@ slug: /teaching
 <br />
 
 ### ***Current***
--  Fall 2021 (second-half) - Markets with Frictions (Ph.D.)
+-  Fall 2021 (second-half) - Decentralized Markets in Macroeconomics and Finance (Ph.D.)
 
 
 
@@ -17,7 +17,7 @@ slug: /teaching
 
 ### ***Past***
 #### Instructor
-- **UVa - Macro Field Course (Ph.D.) - Markets with Frictions** (Fall 2019)
+- **UVa - Macro Field Course (Ph.D.) - Decentralized Markets in Macroeconomics and Finance** (Fall 2019)
 
 - **UVa - Macroeconomic Theory I (Ph.D.)**, ECON 7020 (Fall 2016, Fall 2017, Fall 2018, Fall 2019)
 
