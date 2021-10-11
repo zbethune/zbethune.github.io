@@ -45,7 +45,7 @@ profile_picture:
 -<a style="color: #0b0e73" href="https://www.financetheory.org/" target="_blank" rel="noopener noreferrer" color="blue">***Financial Theory Group (FTG)*** </a> 
 <p style="margin-bottom:0cm;"></p>
 
-<img src="../assets/img/uva_logo_color.png" alt="uva" width="280" class="center">
+<!-- <img src="../assets/img/uva_logo_color.png" alt="uva" width="280" class="center"> -->
 
 
 
