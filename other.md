@@ -22,3 +22,4 @@ slug: /other
 
 <a style="color: #0b0e73" href="https://www.financetheory.org/" target="_blank" rel="noopener noreferrer" color="blue">***Financial Theory Group*** </a> 
 
+<br>
