@@ -36,7 +36,7 @@ profile_picture:
 <a href="https://cepr.org/sites/default/files/news/CovidEconomics11.pdf" target="_blank" rel="noopener noreferrer">[COVID Economics]</a>
 <p style="margin-bottom:0cm;"></p>
 
-<p style="margin-bottom:.40cm;"></p>
+<p style="margin-bottom:.70cm;"></p>
 
 ##### **Other**
 <p style="margin-bottom:-.40cm;"></p>
