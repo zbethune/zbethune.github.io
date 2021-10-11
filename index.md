@@ -41,7 +41,7 @@ profile_picture:
 ##### **Other**
 <p style="margin-bottom:-.40cm;"></p>
 -<a style="color: #0b0e73" href="https://sammf.com" target="_blank" rel="noopener noreferrer" color="blue">***Search and Matching in Macro and Finance (SaMMF)***</a> 
-<p style="margin-bottom:-.20cm;"></p>
+<p style="margin-bottom:-.30cm;"></p>
 -<a style="color: #0b0e73" href="https://www.financetheory.org/" target="_blank" rel="noopener noreferrer" color="blue">***Financial Theory Group (FTG)*** </a> 
 <p style="margin-bottom:0cm;"></p>
 
