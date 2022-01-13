@@ -29,10 +29,7 @@ profile_picture:
 ##### **Recent Research**
 <p style="margin-bottom:-.40cm;"></p>
 
-"*Unemployment and the Distribution of Liquidity*" (2022) with Guillaume Rocheteau
-<p style="margin-bottom:-.40cm;"></p>
-<a href="./assets/pdfs/BR_Jan2022.pdf" target="_blank" rel="noopener noreferrer">[PDF]</a>
-
+"*Unemployment and the Distribution of Liquidity*" (2022) with Guillaume Rocheteau <a href="./assets/pdfs/BR_Jan2022.pdf" target="_blank" rel="noopener noreferrer">[PDF]</a>
 <p style="margin-bottom:.70cm;"></p>
 
 ##### **Other**
