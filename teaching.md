@@ -9,7 +9,7 @@ slug: /teaching
 <br />
 
 ### ***Current***
--  Fall 2021 (second-half) - Decentralized Markets in Macroeconomics and Finance (Ph.D.)
+-  Spring 2022 - Money and Banking, ECON 3030 (course material available through Collab)
 
 
 

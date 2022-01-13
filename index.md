@@ -29,12 +29,9 @@ profile_picture:
 ##### **Recent Research**
 <p style="margin-bottom:-.40cm;"></p>
 
-"*COVID-19 Infection Externalities: Pursuing Herd Immunity or Containment?*" (2020) with Anton Korinek
+"*Unemployment and the Distribution of Liquidity*" (2022) with Guillaume Rocheteau
 <p style="margin-bottom:-.40cm;"></p>
-<a href="https://www.nber.org/papers/w27009" target="_blank" rel="noopener noreferrer">[NBER WP]</a>
-<a href="https://voxeu.org/article/covid-19-infection-externalities-herd-immunity-versus-containment-strategies" target="_blank" rel="noopener noreferrer">[VoxEU Non-technical]</a>
-<a href="https://cepr.org/sites/default/files/news/CovidEconomics11.pdf" target="_blank" rel="noopener noreferrer">[COVID Economics]</a>
-<p style="margin-bottom:0cm;"></p>
+<a href="./assets/pdfs/BR_Jan2022.pdf" target="_blank" rel="noopener noreferrer">[PDF]</a>
 
 <p style="margin-bottom:.70cm;"></p>
 
