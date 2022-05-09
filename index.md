@@ -23,7 +23,7 @@ profile_picture:
 <p style="margin-bottom:.7cm;"></p>
 
 
-##### **Primary Fields**: Macroeconomics,  Financial Economics, Monetary, Labor, Household Finance, Search and Matching
+##### **Primary Fields**: Macroeconomics,  Financial Economics, Monetary, Labor, Search and Matching
 <p style="margin-bottom:.7cm;"></p>
 
 ##### **Recent Research**
