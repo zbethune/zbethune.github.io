@@ -11,7 +11,7 @@ profile_picture:
 #### Department of Economics
 <p style="margin-bottom:-.40cm;"></p>
 
-#### Rice University (<a style="color: #a80f0f"> starting July 2022 /a>) 
+#### Rice University (<a style="color: #a80f0f"> starting July 2022 </a>) 
 <p style="margin-bottom: .9cm;"></p>
 
 
@@ -29,7 +29,7 @@ profile_picture:
 ##### **Recent Research**
 <p style="margin-bottom:-.40cm;"></p>
 
-"*Unemployment and the Distribution of Liquidity*" (2022) with Guillaume Rocheteau <a href="./assets/pdfs/BR_Jan2022.pdf" target="_blank" rel="noopener noreferrer">[PDF]</a> *R&R at JPE: Macro*
+"*Unemployment and the Distribution of Liquidity*" (2022) with Guillaume Rocheteau <a href="./assets/pdfs/BR_Jan2022.pdf" target="_blank" rel="noopener noreferrer">[PDF]</a> <a style="color: #a80f0f">*R&R at JPE: Macro* </a>
 <p style="margin-bottom:.70cm;"></p> 
 
 ##### **Other**
