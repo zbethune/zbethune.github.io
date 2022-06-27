@@ -11,7 +11,7 @@ profile_picture:
 #### Department of Economics
 <p style="margin-bottom:-.40cm;"></p>
 
-#### University of Virginia
+#### Rice University (starting July 2022)
 <p style="margin-bottom: .9cm;"></p>
 
 
@@ -30,7 +30,7 @@ profile_picture:
 <p style="margin-bottom:-.40cm;"></p>
 
 "*Unemployment and the Distribution of Liquidity*" (2022) with Guillaume Rocheteau <a href="./assets/pdfs/BR_Jan2022.pdf" target="_blank" rel="noopener noreferrer">[PDF]</a>
-<p style="margin-bottom:.70cm;"></p>
+<p style="margin-bottom:.70cm;"></p> ***R&R at the Journal of Political Economy: Macroeconomics***
 
 ##### **Other**
 <p style="margin-bottom:-.40cm;"></p>
