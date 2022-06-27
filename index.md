@@ -1,7 +1,7 @@
 ---
 layout: home
 profile_picture:
-  src: /assets/img/zach_bethune_uva.jpg
+  src: /assets/img/zach_bethune.jpg
   alt: website picture
 ---
 
@@ -11,7 +11,7 @@ profile_picture:
 #### Department of Economics
 <p style="margin-bottom:-.40cm;"></p>
 
-#### Rice University (<a style="color: #B02B0F" starting July 2022 /a>) 
+#### Rice University (<a style="color: #a80f0f"> starting July 2022 /a>) 
 <p style="margin-bottom: .9cm;"></p>
 
 
