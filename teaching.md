@@ -9,8 +9,7 @@ slug: /teaching
 <br />
 
 ### ***Current***
--  Spring 2022 - Money and Banking, ECON 3030 (course material available through Collab)
-
+- 
 
 
 <br />

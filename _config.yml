@@ -3,12 +3,12 @@
 
 title: Zach Bethune - Homepage
 description: >- # this means to ignore newlines until "baseurl:"
-  Homepage of Zach Bethune - Associate Professor of Economics - University of Virginia
+  Homepage of Zach Bethune - Associate Professor of Economics - Rice University
 domain: zbethune.github.io
 baseurl: "/" # the subpath of the site
 # url: "https://zbethune.github.io" # the base hostname & protocol for the site
 url: "https://www.zachbethune.com" # the base hostname & protocol for the site
-og_image: /assets/img/zach_bethune_uva.jpg
+og_image: /assets/img/zach_bethune.jpg
 # google_analytics: "UA-121636368-3"
 
 header:
