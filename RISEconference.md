@@ -5,6 +5,11 @@ slug: /RISEconference
 ---
 
 ---
+The Rice Initiative for the Study of Economics (RISE) is pleased to sponsor the Rice Inflation Conference and Keynote Lecture. 
+
+<br/>
+
+
 
 <br />
 
