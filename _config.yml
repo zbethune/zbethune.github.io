@@ -19,6 +19,7 @@ header:
     - name: Teaching
     - name: Other
     - name: RISE Inflation Conference
+      slug: /rise-inflation-conference
 
 footer:
   show_powered_by: true
