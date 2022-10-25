@@ -30,7 +30,7 @@ slug: /RISEconference
 
 5:00-5:45 pm    Reception in Kraft hall 418 (Lounge)
 
-6:00-7:00 pm    <b> RISE Keynote Lecture "Conquests of American Inflation: North and South" by Tom Sargent (New York University)
+6:00-7:00 pm    <b> RISE Keynote Lecture "Conquests of American Inflation: North and South" by Tom Sargent (New York University)<br/>
 <a style="color: #0b0e73"> Hudspeth Auditorium, Glasscock School of Continuing Studies
 </a>
 
