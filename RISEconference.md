@@ -41,7 +41,7 @@ The Rice Initiative for the Study of Economics (RISE) is pleased to sponsor the 
 
 6:00-7:00 pm  &nbsp;&nbsp;&nbsp;  <b> RISE Keynote Lecture "Conquests of American Inflation: North and South"<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="color: #0b0e73">Tom Sargent (New York University)</span><br/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <span style="color: #a80f0f"> Hudspeth Auditorium, Glasscock School of Continuing Studies
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <span style="color: #a80f0f"> Hudspeth Auditorium, Glasscock School of Continuing Studies
 </span>
 
 > 7:30    Dinner (by invitation) at Hugo's (1600 Westheimer, Houston, TX 77006)
