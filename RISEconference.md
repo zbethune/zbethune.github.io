@@ -13,7 +13,7 @@ The Rice Initiative for the Study of Economics (RISE) is pleased to sponsor the 
 
 <br />
 
-<h5> ### ***Conference Program***</h5>
+<h5> Conference Program</h5>
 <i> Speakers listed in bold </i>
 
 <br />
