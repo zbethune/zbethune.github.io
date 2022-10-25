@@ -62,3 +62,4 @@ The Rice Initiative for the Study of Economics (RISE) is pleased to sponsor the 
 12:15-1:15 am  &nbsp;&nbsp;&nbsp; "Reallocating Liquidity to Reslve a Crisis: Evidence from the Panic of 1873" by <span style="color: #0b0e73"><b> Kinda Hachem (UVa Darden) </b></span>, Haelim Anderson, and Simpson Zhang
 
 <br />
+Organizers: Zach Bethune & Flavio Cunha
