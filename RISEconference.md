@@ -37,8 +37,16 @@ slug: /rise-inflation-conference
 
 <br />
 
-#### <u> Friday, October 28, 2022 </u>
+#### <u> Saturday, October 29, 2022 </u>
 
-12:00-1:00 pm   Informal Lunch outside Kraft 110
+9:00-10:00 am   "Firm Heterogeneity, Capital Misallocation, and Optimal Monetary Policy" by <b> Galo Nuno (Bank of Spain)</b>, Beatriz Gonzalez, Dominik Thaler, and Silvia Albrizio
+
+10:00-11:00 am   "Q-Monetary Transmission" by <b> Ricardo Lagos (New York University)</b> and Priit Jeenas
+
+11:00-11:15 Coffee Break
+
+10:00-11:00 am   "The Effect of Macroeconomic Uncertainty on Firm Decisions" by <b> Olivier Coibion (UT Austin)</b>, Yuiry Gorodnichenko, and Saten Kumar
+
+10:00-11:00 am   "Reallocating Liquidity to Reslve a Crisis: Evidence from the Panic of 1873" by <b> Kinda Hachem (UVa Darden) </b>, Haelim Anderson, and Simpson Zhang
 
 <br />
