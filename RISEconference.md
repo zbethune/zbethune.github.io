@@ -12,6 +12,7 @@ slug: /rise-inflation-conference
 <i> Speakers listed in bold </i>
 
 #### <u> Friday, October 28, 2022 </u>
+<i>in Kraft Hall 110 unless otherwise noted</i>
 
 12:00-1:00 pm   Informal Lunch outside Kraft 110
 
@@ -38,6 +39,7 @@ slug: /rise-inflation-conference
 <br />
 
 #### <u> Saturday, October 29, 2022 </u>
+<i>in Kraft Hall 110 unless otherwise noted</i>
 
 9:00-10:00 am   "Firm Heterogeneity, Capital Misallocation, and Optimal Monetary Policy" by <b> Galo Nuno (Bank of Spain)</b>, Beatriz Gonzalez, Dominik Thaler, and Silvia Albrizio
 
