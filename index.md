@@ -11,7 +11,7 @@ profile_picture:
 #### Department of Economics
 <p style="margin-bottom:-.40cm;"></p>
 
-#### Rice University (<a style="color: #a80f0f">starting July 2022</a>) 
+#### Rice University (<span style="color: #a80f0f">starting July 2022</span>) 
 <p style="margin-bottom: .9cm;"></p>
 
 
