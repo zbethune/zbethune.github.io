@@ -9,7 +9,7 @@ slug: /teaching
 <br />
 
 ### ***Current***
-- 
+- Rice - Macroeconomic Theory I (1st-year PhD) 
 
 
 <br />
