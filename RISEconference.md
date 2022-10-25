@@ -8,7 +8,7 @@ slug: /RISEconference
 
 <br />
 
-### ***Conference Program***
+<h5> ### ***Conference Program***</h5>
 <i> Speakers listed in bold </i>
 
 <br />
