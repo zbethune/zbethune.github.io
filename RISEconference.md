@@ -1,7 +1,7 @@
 ---
 layout: work
 title: RISE Inflation Conference
-slug: /rise-inflation-conference
+slug: /RISEconference
 ---
 
 ---
