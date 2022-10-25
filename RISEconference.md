@@ -1,6 +1,6 @@
 ---
 layout: work
-title: RISE Inflation Conference and Keynote Lecture
+title: RISE Inflation Conference
 slug: /rise-inflation-conference
 ---
 
