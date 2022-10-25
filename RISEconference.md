@@ -11,6 +11,8 @@ slug: /rise-inflation-conference
 ### ***Conference Program***
 <i> Speakers listed in bold </i>
 
+<br />
+
 #### <u> Friday, October 28, 2022 </u>
 <i>in Kraft Hall 110 unless otherwise noted</i>
 
@@ -33,8 +35,6 @@ slug: /rise-inflation-conference
 </a>
 
 7:30    Dinner (by invitation) at Hugo's (1600 Westheimer, Houston, TX 77006)
-
-
 
 <br /><br />
 
