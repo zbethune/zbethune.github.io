@@ -44,7 +44,7 @@ The Rice Initiative for the Study of Economics (RISE) is pleased to sponsor the 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <span style="color: #a80f0f"> Hudspeth Auditorium, Glasscock School of Continuing Studies
 </span>
 
-> 7:30    Dinner (by invitation) at Hugo's (1600 Westheimer, Houston, TX 77006)
+
 
 <br />
 
