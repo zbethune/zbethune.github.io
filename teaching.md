@@ -9,13 +9,16 @@ slug: /teaching
 <br />
 
 ### ***Current***
-- Rice - Money and Banking (Undergraduate), please see materials through Canvas 
+- Macroeconomic Theory I (1st-year PhD)
+- Topics in Macroeconomics (2st-year PhD)
 
 
 <br />
 
 ### ***Past***
 #### Instructor
+- **Rice - Money and Banking (Undergraduate)** (Spring 2023)
+
 - **Rice - Macroeconomic Theory I (1st-year PhD)** (Fall 2022)
 
 - **UVa - Macro Field Course (Ph.D.) - Decentralized Markets in Macroeconomics and Finance** (Fall 2019, Fall 2020, Fall 2021)

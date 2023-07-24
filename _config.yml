@@ -17,9 +17,11 @@ header:
       slug: /
     - name: Research
     - name: Teaching
+    - name: Conferences
+      slug: /conferences
     - name: Other
-    - name: RISE Inflation Conference
-      slug: /RISEconference
+    # - name: RISE Inflation Conference
+    #   slug: /RISEconference
 
 
 footer:
