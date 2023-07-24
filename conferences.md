@@ -9,7 +9,7 @@ slug: /conferences
 <br />
 
 ### ***Upcoming***
-- RISE Conference on Firms, Productivity, and Growth (co-organized with Shihan Shen) - October 13-14 at Rice University
+- **RISE Conference on Firms, Productivity, and Growth** (co-organized with Shihan Shen) - October 13-14 at Rice University
 
 
 <br />
