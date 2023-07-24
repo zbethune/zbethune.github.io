@@ -39,7 +39,7 @@ profile_picture:
 <p style="margin-bottom:-.40cm;"></p>
 - Co-organizer of <a style="color: #0b0e73" href="https://sammf.com" target="_blank" rel="noopener noreferrer" color="blue">***Search and Matching in Macro and Finance (SaMMF)***</a>
 <p style="margin-bottom:-.40cm;"></p>
-- Visiting Professor at <a style="color: #0b0e73" href="https://www.u-paris2.fr/en" target="_blank" rel="noopener noreferrer" color="blue">*** Paris 2 Pantheon-Assas***</a>
+- Visiting Professor at <a style="color: #0b0e73" href="https://www.u-paris2.fr/en" target="_blank" rel="noopener noreferrer" color="blue">***Paris 2 Pantheon-Assas***</a>
 <p style="margin-bottom:0cm;"></p>
 
 
