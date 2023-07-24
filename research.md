@@ -56,12 +56,6 @@ slug: /research
 <a href="https://cepr.org/sites/default/files/news/CovidEconomics11.pdf" target="_blank" rel="noopener noreferrer">[COVID Economics]</a>
 
 
--  "__Private Information in Over-the-Counter Markets__" (2016), joint with Bruno Sultanum and Nicholas Trachter. <span style="color:  gray">[*new draft available soon*]</span>
-
-
--  "__Consumer Credit, Unemployment, and Aggregate Labor Market Dynamics__" (2015). 
-<a href="./assets/pdfs/consumer_credit_unemployment.pdf" target="_blank" rel="noopener noreferrer">[PDF]</a> 
-
 
 <br />
 
@@ -70,18 +64,22 @@ slug: /research
 
 -  "__Consumer Credit Regulation and Lender Market Power__", joint with Joaquin Saldain and Eric Young.
 
-
+-  "__Consumer Search and the Long-Run Phillips Curve__", joint with Michael Choi, Sebastien Lotz, and Guillaume Rocheteau
 
 
 <br />
 
 
-### ***Other Work***
+### ***Other Work or Dormant Papers***
+
 -  "__Inefficiency in a Simple Model of Production and Bilateral Trade__" (2018), joint with Bruno Sultanum and Nicholas Trachter. *Federal Reserve Bank of Richmond Economic Quarterly*
 
 
+-  "__Private Information in Over-the-Counter Markets__" (2016), joint with Bruno Sultanum and Nicholas Trachter. <span style="color:  gray"></span>
+
+-  "__Consumer Credit, Unemployment, and Aggregate Labor Market Dynamics__" (2015). 
+<a href="./assets/pdfs/consumer_credit_unemployment.pdf" target="_blank" rel="noopener noreferrer">[PDF]</a> 
+
 -  "__Dynamic Indeterminacy and Welfare in Credit Economies__" (2014), joint with Guillaume Rocheteau and Tai-Wei Hu. *Older working paper that was split into "Optimal Credit Fluctuations" and "Indeterminacy in Credit Economies"*
-
-
 
 <br />
