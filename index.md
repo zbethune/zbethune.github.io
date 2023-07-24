@@ -6,7 +6,7 @@ profile_picture:
 ---
 
 ## Associate Professor
-<p style="margin-bottom:-.40cm;"></p>
+<p style="margin-bottom:-.30cm;"></p>
 
 #### Department of Economics
 <p style="margin-bottom:-.40cm;"></p>
@@ -33,9 +33,11 @@ profile_picture:
 
 ##### **Other**
 <p style="margin-bottom:-.40cm;"></p>
--<a style="color: #0b0e73" href="https://sammf.com" target="_blank" rel="noopener noreferrer" color="blue">***Search and Matching in Macro and Finance (SaMMF)***</a> 
+- Associate Editor at the <a style="color: #0b0e73" href="https://www.sciencedirect.com/journal/european-economic-review/about/editorial-board" target="_blank" rel="noopener noreferrer" color="blue">***European Economic Review***</a>
+<p style="margin-bottom:-.40cm;"></p>
+- Co-organizer of the <a style="color: #0b0e73" href="https://sammf.com" target="_blank" rel="noopener noreferrer" color="blue">***Search and Matching in Macro and Finance (SaMMF)***</a> seminar series
 <p style="margin-bottom:-.30cm;"></p>
--<a style="color: #0b0e73" href="https://www.financetheory.org/" target="_blank" rel="noopener noreferrer" color="blue">***Financial Theory Group (FTG)*** </a> 
+- Member of the <a style="color: #0b0e73" href="https://www.financetheory.org/" target="_blank" rel="noopener noreferrer" color="blue">***Financial Theory Group (FTG)*** </a> 
 <p style="margin-bottom:0cm;"></p>
 
 
