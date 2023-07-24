@@ -31,7 +31,7 @@ profile_picture:
 "*Unemployment and the Distribution of Liquidity*" (2022) with Guillaume Rocheteau <a href="./assets/pdfs/BR_Jan2022.pdf" target="_blank" rel="noopener noreferrer">[PDF]</a> <br> <a style="color: #a80f0f">*R&R at JPE: Macro* </a>
 <p style="margin-bottom:.70cm;"></p> 
 
-##### **Other**
+##### **Other **
 <p style="margin-bottom:-.40cm;"></p>
 - Associate Editor at the <a style="color: #0b0e73" href="https://www.sciencedirect.com/journal/european-economic-review/about/editorial-board" target="_blank" rel="noopener noreferrer" color="blue">***European Economic Review***</a>
 <p style="margin-bottom:-.30cm;"></p>
@@ -39,7 +39,8 @@ profile_picture:
 <p style="margin-bottom:-.40cm;"></p>
 - Co-organizer of <a style="color: #0b0e73" href="https://sammf.com" target="_blank" rel="noopener noreferrer" color="blue">***Search and Matching in Macro and Finance (SaMMF)***</a>
 <p style="margin-bottom:0cm;"></p>
-
+- Visiting Professor at <a style="color: #0b0e73" href="https://www.u-paris2.fr/en" target="_blank" rel="noopener noreferrer" color="blue">*** Paris 2 Pantheon-Assas***</a>
+<p style="margin-bottom:0cm;"></p>
 
 
 <!-- Default Statcounter code for Personal Webpage
