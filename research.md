@@ -9,12 +9,12 @@ slug: /research
 <br />
 
 ### ***Published Papers***
--  "__An Information-based Theory of Financial Intermediation__" (*forthcoming*), joint with Bruno Sultanum and Nicholas Trachter. <span style="color: blue"> ***Review of Economic Studies*** </span>
-    > <a href="./assets/pdfs/BST_ReStud_July2021.pdf" target="_blank" rel="noopener noreferrer">[Working paper version]</a> [Published version (to come)]
+-  "__An Information-based Theory of Financial Intermediation__" (2022), joint with Bruno Sultanum and Nicholas Trachter. <span style="color: blue"> ***Review of Economic Studies*** </span>
+    > <a href="./assets/pdfs/BST_ReStud_July2021.pdf" target="_blank" rel="noopener noreferrer">[Working paper version]</a> <a href="https://academic.oup.com/restud/article/89/5/2381/6482754" target="_blank" rel="noopener noreferrer">[Published version]</a> 
 
 
-- "__Lending Relationships and Optimal Monetary Policy__" (*forthcoming*), joint with Guillaume Rocheteau, Tsz-Nga (Russell) Wong, and Cathy Zhang. <span style="color: blue"> ***Review of Economic Studies*** </span>
-    > <a href="./assets/pdfs/BRZW_ReStud_July2021.pdf" target="_blank" rel="noopener noreferrer">[Working paper version]</a> [Published version (to come)]
+- "__Lending Relationships and Optimal Monetary Policy__" (2022), joint with Guillaume Rocheteau, Tsz-Nga (Russell) Wong, and Cathy Zhang. <span style="color: blue"> ***Review of Economic Studies*** </span>
+    > <a href="./assets/pdfs/BRZW_ReStud_July2021.pdf" target="_blank" rel="noopener noreferrer">[Working paper version]</a> <a href="https://academic.oup.com/restud/article/89/4/1833/6427558" target="_blank" rel="noopener noreferrer">[Published version]</a> 
 
 
 - "__Frictional Goods Markets: Theory and Applications__" (2020), joint with Michael Choi and Randall Wright. <span style="color: blue"> ***Review of Economic Studies*** </span>
