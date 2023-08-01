@@ -48,7 +48,7 @@ slug: /research
 ### ***Working Papers***
 
 -  "__Unemployment and the Distribution of Liquidity__" (2022), joint with Guillaume Rocheteau. <span style="color: blue"> ***R&R at the Journal of Political Economy: Macroeconomics*** </span>
-<a href="./assets/pdfs/BR_Jan2022.pdf" target="_blank" rel="noopener noreferrer">[PDF]</a> 
+<a href="./assets/pdfs/BR_June2023.pdf" target="_blank" rel="noopener noreferrer">[PDF]</a> 
 
 -  "__COVID-19 Infection Externalities: Trading Off Lives versus Livelihoods__" (2020), joint with Anton Korinek. 
 <a href="https://www.nber.org/papers/w27009" target="_blank" rel="noopener noreferrer">[NBER WP]</a>
