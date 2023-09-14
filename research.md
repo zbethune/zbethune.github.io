@@ -9,6 +9,9 @@ slug: /research
 <br />
 
 ### ***Published Papers***
+-  "__Unemployment and the Distribution of Liquidity__" (2023), joint with Guillaume Rocheteau. <span style="color: blue"> ***Accepted at the Journal of Political Economy: Macroeconomics*** </span>
+<a href="https://www.journals.uchicago.edu/doi/10.1086/727797" target="_blank" rel="noopener noreferrer">[PDF]</a> 
+
 -  "__An Information-based Theory of Financial Intermediation__" (2022), joint with Bruno Sultanum and Nicholas Trachter. <span style="color: blue"> ***Review of Economic Studies*** </span>
     > <a href="./assets/pdfs/BST_ReStud_July2021.pdf" target="_blank" rel="noopener noreferrer">[Working paper version]</a> <a href="https://academic.oup.com/restud/article/89/5/2381/6482754" target="_blank" rel="noopener noreferrer">[Published version]</a> 
 
@@ -46,9 +49,6 @@ slug: /research
 
 
 ### ***Working Papers***
-
--  "__Unemployment and the Distribution of Liquidity__" (2022), joint with Guillaume Rocheteau. <span style="color: blue"> ***R&R at the Journal of Political Economy: Macroeconomics*** </span>
-<a href="./assets/pdfs/BR_June2023.pdf" target="_blank" rel="noopener noreferrer">[PDF]</a> 
 
 -  "__COVID-19 Infection Externalities: Trading Off Lives versus Livelihoods__" (2020), joint with Anton Korinek. 
 <a href="https://www.nber.org/papers/w27009" target="_blank" rel="noopener noreferrer">[NBER WP]</a>
