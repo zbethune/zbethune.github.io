@@ -10,7 +10,7 @@ slug: /research
 
 ### ***Published Papers***
 -  "__Unemployment and the Distribution of Liquidity__" (2023), joint with Guillaume Rocheteau. <span style="color: blue"> ***Accepted at the Journal of Political Economy: Macroeconomics*** </span>
- <a href="./assets/pdfs/JPE_Macro_MS220025_final.pdf" target="_blank" rel="noopener noreferrer">[Working paper version]</a> <a href="https://www.journals.uchicago.edu/doi/10.1086/727797" target="_blank" rel="noopener noreferrer">[Published version]</a> 
+    > <a href="./assets/pdfs/JPE_Macro_MS220025_final.pdf" target="_blank" rel="noopener noreferrer">[Working paper version]</a> <a href="https://www.journals.uchicago.edu/doi/10.1086/727797" target="_blank" rel="noopener noreferrer">[Published version]</a> 
 
 -  "__An Information-based Theory of Financial Intermediation__" (2022), joint with Bruno Sultanum and Nicholas Trachter. <span style="color: blue"> ***Review of Economic Studies*** </span>
     > <a href="./assets/pdfs/BST_ReStud_July2021.pdf" target="_blank" rel="noopener noreferrer">[Working paper version]</a> <a href="https://academic.oup.com/restud/article/89/5/2381/6482754" target="_blank" rel="noopener noreferrer">[Published version]</a> 
