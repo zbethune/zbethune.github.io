@@ -9,7 +9,7 @@ slug: /research
 <br />
 
 ### ***Published Papers***
--  "__Unemployment and the Distribution of Liquidity__" (2023), joint with Guillaume Rocheteau. <span style="color: blue"> ***Accepted at the Journal of Political Economy: Macroeconomics*** </span>
+-  "__Unemployment and the Distribution of Liquidity__" (2023), joint with Guillaume Rocheteau. <span style="color: blue"> ***Journal of Political Economy: Macroeconomics*** </span>
     > <a href="./assets/pdfs/JPE_Macro_MS220025_final.pdf" target="_blank" rel="noopener noreferrer">[Working paper version]</a> <a href="https://www.journals.uchicago.edu/doi/10.1086/727797" target="_blank" rel="noopener noreferrer">[Published version]</a> <a href="./assets/pdfs/JPE_Macro_MS220025_online_appendix.pdf" target="_blank" rel="noopener noreferrer">[Supplementary Appendix]</a> 
 
 -  "__An Information-based Theory of Financial Intermediation__" (2022), joint with Bruno Sultanum and Nicholas Trachter. <span style="color: blue"> ***Review of Economic Studies*** </span>
@@ -55,14 +55,13 @@ slug: /research
 <a href="https://voxeu.org/article/covid-19-infection-externalities-herd-immunity-versus-containment-strategies" target="_blank" rel="noopener noreferrer">[VoxEU Non-technical]</a>
 <a href="https://cepr.org/sites/default/files/news/CovidEconomics11.pdf" target="_blank" rel="noopener noreferrer">[COVID Economics]</a>
 
-
+-  "__Consumer Credit Regulation and Lender Market Power__", joint with Joaquin Saldain and Eric Young. 
+<a href="./assets/pdfs/BSY_April24.pdf" target="_blank" rel="noopener noreferrer">[PDF]</a> <br> <a style="color: #a80f0f"> </a>
 
 <br />
 
 
-### ***Working Papers***
-
--  "__Consumer Credit Regulation and Lender Market Power__", joint with Joaquin Saldain and Eric Young.
+### ***Work in Progress***
 
 -  "__Consumer Search and the Long-Run Phillips Curve__", joint with Michael Choi, Sebastien Lotz, and Guillaume Rocheteau
 
