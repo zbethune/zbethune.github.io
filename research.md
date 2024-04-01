@@ -24,6 +24,10 @@ slug: /research
     > <a href="./assets/pdfs/BCW_ReStud_June2019.pdf" target="_blank" rel="noopener noreferrer">[Working paper version]</a>
     <a href="https://academic.oup.com/restud/article-abstract/87/2/691/5570997?redirectedFrom=fulltext#" target="_blank" rel="noopener noreferrer">[Published version]</a> 
 
+-  "__COVID-19 Infection Externalities: Trading Off Lives versus Livelihoods__" (2020), joint with Anton Korinek. <span style="color: blue"> ***COVID Economics*** </span>
+<a href="https://www.nber.org/papers/w27009" target="_blank" rel="noopener noreferrer">[NBER WP]</a>
+<a href="https://cepr.org/sites/default/files/news/CovidEconomics11.pdf" target="_blank" rel="noopener noreferrer">[Published Version]</a>
+<a href="https://voxeu.org/article/covid-19-infection-externalities-herd-immunity-versus-containment-strategies" target="_blank" rel="noopener noreferrer">[VoxEU Non-technical]</a>
 
 - "__Asset Issuance in Over-the-Counter Markets__" (2019), joint with Bruno Sultanum and Nicholas Trachter. <span style="color: blue"> ***Review of Economic Dynamics*** </span>
     > <a href="./assets/pdfs/BST_RED_Jan2019.pdf" target="_blank" rel="noopener noreferrer">[Working paper version]</a> 
@@ -49,11 +53,6 @@ slug: /research
 
 
 ### ***Working Papers***
-
--  "__COVID-19 Infection Externalities: Trading Off Lives versus Livelihoods__" (2020), joint with Anton Korinek. 
-<a href="https://www.nber.org/papers/w27009" target="_blank" rel="noopener noreferrer">[NBER WP]</a>
-<a href="https://voxeu.org/article/covid-19-infection-externalities-herd-immunity-versus-containment-strategies" target="_blank" rel="noopener noreferrer">[VoxEU Non-technical]</a>
-<a href="https://cepr.org/sites/default/files/news/CovidEconomics11.pdf" target="_blank" rel="noopener noreferrer">[COVID Economics]</a>
 
 -  "__Consumer Credit Regulation and Lender Market Power__", joint with Joaquin Saldain and Eric Young. 
 <a href="./assets/pdfs/BSY_April24.pdf" target="_blank" rel="noopener noreferrer">[PDF]</a> <br> <a style="color: #a80f0f"> </a>
