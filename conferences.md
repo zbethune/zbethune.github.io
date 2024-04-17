@@ -9,7 +9,7 @@ slug: /conferences
 <br />
 
 ### ***Upcoming***
-- <a style="color: #0b0e73" href="./assets/pdfs/2024%Rice-LEMMA%Program.pdf" target="_blank" rel="noopener noreferrer" color="blue">***2024 Rice-LEMMA Monetary Conference (co-organized with Sebastien Lotz and Guillaume Rochteau)*** </a>  - May 16-17, 2024, Paris, France
+- <a style="color: #0b0e73" href="./assets/pdfs/2024 Rice-LEMMA Program.pdf" target="_blank" rel="noopener noreferrer" color="blue">***2024 Rice-LEMMA Monetary Conference (co-organized with Sebastien Lotz and Guillaume Rochteau)*** </a>  - May 16-17, 2024, Paris, France
 
 
 <br />
