@@ -8,9 +8,9 @@ slug: /teaching
 
 <br />
 
-### ***Current***
-- On Leave
-
+### ***Current (Fall 2024)***
+- **Macroeconomic Theory I (1st-year PhD)** see materials on Canvas
+- **Topics in Macroeconomics I (2nd-year PhD)** see materials on Canvas
 
 <br />
 

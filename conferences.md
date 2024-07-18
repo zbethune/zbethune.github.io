@@ -9,12 +9,15 @@ slug: /conferences
 <br />
 
 ### ***Upcoming***
-- <a style="color: #0b0e73" href="./assets/pdfs/2024 Rice-LEMMA Program.pdf" target="_blank" rel="noopener noreferrer" color="blue">***2024 Rice-LEMMA Monetary Conference (co-organized with Sebastien Lotz and Guillaume Rochteau)*** </a>  - May 16-17, 2024, Paris, France
+
 
 
 <br />
 
 ### ***Past***
+
+- <a style="color: #0b0e73" href="./assets/pdfs/2024 Rice-LEMMA Program.pdf" target="_blank" rel="noopener noreferrer" color="blue">***2024 Rice-LEMMA Monetary Conference (co-organized with Sebastien Lotz and Guillaume Rochteau)*** </a>  - May 16-17, 2024, Paris, France
+
 - <a style="color: #0b0e73" href="https://economics.rice.edu/sites/g/files/bxs4046/files/inline-files/Rice%20Macro-Finance%20Mini-conference.pdf" target="_blank" rel="noopener noreferrer" color="blue">***Rice Macro-Finance Theory Mini-conference (co-organized with Shihan Shen)*** </a>  (March 2024)
 
 - <a style="color: #0b0e73" href="https://economics.rice.edu/rice-conference-firms-productivity-and-growth" target="_blank" rel="noopener noreferrer" color="blue">***RISE Conference on Firms, Productivity, and Growth (co-organized with Shihan Shen)*** </a>  (October 2023)

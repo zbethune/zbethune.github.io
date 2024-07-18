@@ -55,15 +55,20 @@ slug: /research
 ### ***Working Papers***
 
 -  "__Consumer Credit Regulation and Lender Market Power__", joint with Joaquin Saldain and Eric Young. 
-<a href="./assets/pdfs/BSY_April24.pdf" target="_blank" rel="noopener noreferrer">[PDF]</a> <br> <a style="color: #a80f0f"> </a>
+<a href="./assets/pdfs/BSY_July24.pdf" target="_blank" rel="noopener noreferrer">[PDF]</a> <br> <a style="color: #a80f0f"> </a>
+
+-  "__Consumer Search and the Long-Run Phillips Curve__", joint with Michael Choi, Sebastien Lotz, and Guillaume Rocheteau.
+<a href="./assets/pdfs/BCLR_June24.pdf" target="_blank" rel="noopener noreferrer">[PDF]</a> <br> <a style="color: #a80f0f"> </a>
 
 <br />
 
 
 ### ***Work in Progress***
+- "__A Monetarist Model of the Short-run Phillips Curve__"
 
--  "__Consumer Search and the Long-Run Phillips Curve__", joint with Michael Choi, Sebastien Lotz, and Guillaume Rocheteau
+-  "__A Theory of Money and Banking__", joint with Thomas Brzustowski and Bruno Sultanum
 
+- "__Helicopter Drops, Inflation, and the Labor Market__", joint with Guillaume Rocheteau
 
 <br />
 
