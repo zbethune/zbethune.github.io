@@ -57,7 +57,7 @@ slug: /research
 -  "__Consumer Credit Regulation and Lender Market Power__", joint with Joaquin Saldain and Eric Young. 
 <a href="./assets/pdfs/BSY_July24.pdf" target="_blank" rel="noopener noreferrer">[PDF]</a> <br> <a style="color: #a80f0f"> </a>
 
--  "__Consumer Search and the Long-Run Phillips Curve__", joint with Michael Choi, Sebastien Lotz, and Guillaume Rocheteau.
+-  "__Inflation and Unemployment in the Long Run Revisited__", joint with Michael Choi, Sebastien Lotz, and Guillaume Rocheteau.
 <a href="./assets/pdfs/BCLR_June24.pdf" target="_blank" rel="noopener noreferrer">[PDF]</a> <br> <a style="color: #a80f0f"> </a>
 
 <br />
