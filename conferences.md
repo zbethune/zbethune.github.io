@@ -10,7 +10,7 @@ slug: /conferences
 
 ### ***Upcoming***
 
-
+- <a style="color: #0b0e73" href="./assets/pdfs/2025 Rice-LEMMA Program.pdf" target="_blank" rel="noopener noreferrer" color="blue">***2025 Rice-LEMMA Monetary Conference (co-organized with Sebastien Lotz and Guillaume Rochteau)*** </a>  - June 5-6, 2025, Paris, France
 
 <br />
 
