@@ -25,10 +25,10 @@ profile_picture:
 ##### **Primary Fields**: Macroeconomics,  Financial Economics, Monetary, Labor, Search and Matching
 <p style="margin-bottom:.7cm;"></p>
 
-##### **Recent Research** 
+##### **Recent Research**
 <p style="margin-bottom:-.40cm;"></p> 
 
-"**Consumer Credit Regulation and Lender Market Power**" (2025) with Joaquin Saldain and Eric Young <a href="./assets/pdfs/BSY_May25.pdf" target="_blank" rel="noopener noreferrer">[PDF]</a> <br> <a updated style="color: #a80f0f"> </a> 
+"**Consumer Credit Regulation and Lender Market Power**" (2025) with Joaquin Saldain and Eric Young <a href="./assets/pdfs/BSY_May25.pdf" target="_blank" rel="noopener noreferrer">[PDF]</a> <br> <a style="color: #a80f0f"> </a> <span style="color: red"> ***(updated)*** </span>
 <p style="margin-bottom:.70cm;"></p> 
 
 ##### **Other Affiliations**
