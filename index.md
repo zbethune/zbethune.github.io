@@ -28,7 +28,7 @@ profile_picture:
 ##### **Recent Research** 
 <p style="margin-bottom:-.40cm;"></p> 
 
-"**Consumer Credit Regulation and Lender Market Power**" (2025) with Joaquin Saldain and Eric Young <a href="./assets/pdfs/BSY_May25.pdf" target="_blank" rel="noopener noreferrer">[PDF]</a> <br> <a "updated" style="color: #a80f0f"> </a> 
+"**Consumer Credit Regulation and Lender Market Power**" (2025) with Joaquin Saldain and Eric Young <a href="./assets/pdfs/BSY_May25.pdf" target="_blank" rel="noopener noreferrer">[PDF]</a> <br> <a updated style="color: #a80f0f"> </a> 
 <p style="margin-bottom:.70cm;"></p> 
 
 ##### **Other Affiliations**
