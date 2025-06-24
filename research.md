@@ -64,6 +64,8 @@ slug: /research
 
 
 ### ***Work in Progress***
+-  "__Consumer Search, Market Power, and the Distributional Effects of Inflation__", joint with Shihan Shen
+
 - "__A Monetarist Model of the Short-run Phillips Curve__"
 
 -  "__A Theory of Money and Banking__", joint with Thomas Brzustowski and Bruno Sultanum
