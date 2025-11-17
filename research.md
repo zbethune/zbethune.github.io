@@ -57,7 +57,7 @@ slug: /research
 -  "__Consumer Credit Regulation and Lender Market Power__", joint with Joaquin Saldain and Eric Young. 
 <a href="./assets/pdfs/BSY_May25.pdf" target="_blank" rel="noopener noreferrer">[PDF]</a> <br> <a style="color: #a80f0f"> </a>
 
--  "__Inflation and Unemployment in the Long Run Revisited__", joint with Michael Choi, Sebastien Lotz, and Guillaume Rocheteau.
+-  "__Inflation and Unemployment in the Long Run Revisited__", joint with Michael Choi, Sebastien Lotz, and Guillaume Rocheteau. <span style="color: black"> ***R&R at the Economic Journal *** </span>
 <a href="./assets/pdfs/BCLR_May25.pdf" target="_blank" rel="noopener noreferrer">[PDF]</a> <br> <a style="color: #a80f0f"> </a>
 
 <br />
