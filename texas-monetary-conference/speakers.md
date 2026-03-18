@@ -36,7 +36,7 @@ slug: /texas-monetary-conference/speakers
     </div>
     <div class="speaker-info">
       <strong>Joao Guerreiro</strong><br/>
-      UC San Diego
+      UCLA
     </div>
   </div>
 

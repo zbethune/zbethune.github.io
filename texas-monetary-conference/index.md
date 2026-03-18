@@ -49,7 +49,7 @@ Discussant: Luis Perez (SMU)
 
 11:00–11:50 &nbsp;&nbsp;&nbsp; "Optimal Monetary Policy without Redistributive Concerns" with Ariel Burstein and David Baqaee
 <br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-Presenter: <span style="color: #0b0e73"><b>Joao Guerreiro (UC San Diego)</b></span>
+Presenter: <span style="color: #0b0e73"><b>Joao Guerreiro (UCLA)</b></span>
 <br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 Discussant: TBA
 
