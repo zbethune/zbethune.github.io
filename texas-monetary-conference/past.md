@@ -2,6 +2,7 @@
 layout: conference
 title: Past Conferences
 slug: /texas-monetary-conference/past
+published: false
 ---
 
 ## Past Conferences

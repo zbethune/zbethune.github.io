@@ -2,6 +2,7 @@
 layout: conference
 title: About
 slug: /texas-monetary-conference/about
+published: false
 ---
 
 ## About the Conference
