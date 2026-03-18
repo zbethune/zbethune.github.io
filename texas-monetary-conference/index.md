@@ -117,7 +117,7 @@ Discussant: Jaedo Choi (UT Austin)
 
 10:00–10:50 &nbsp;&nbsp;&nbsp; "Reputation for Confidence" with Laura Gáti
 <br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-Presenter: <span style="color: #0b0e73"><b>Amy Hadlan (Brown)</b></span>
+Presenter: <span style="color: #0b0e73"><b>Amy Handlan (Brown)</b></span>
 <br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 Discussant: TBA
 

@@ -92,10 +92,10 @@ slug: /texas-monetary-conference/speakers
 
   <div class="speaker-card">
     <div class="speaker-photo">
-      <img src="" alt="Amy Hadlan"/>
+      <img src="" alt="Amy Handlan"/>
     </div>
     <div class="speaker-info">
-      <strong>Amy Hadlan</strong><br/>
+      <strong>Amy Handlan</strong><br/>
       Brown University
     </div>
   </div>
