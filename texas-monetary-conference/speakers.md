@@ -8,30 +8,33 @@ slug: /texas-monetary-conference/speakers
 
 ---
 
-<br/>
+<div class="speaker-grid">
 
-The list of invited speakers for the 2026 Texas Monetary Conference will be announced soon.
+  <div class="speaker-card">
+    <div class="speaker-photo">
+      <img src="" alt="Speaker Name"/>
+      <!-- Add speaker photo URL from their university webpage -->
+    </div>
+    <div class="speaker-info">
+      <strong>Speaker Name</strong><br/>
+      University/Institution
+    </div>
+  </div>
 
-<br/>
+  <!-- Copy the block above for each speaker. Example:
 
-### Invited Speakers
+  <div class="speaker-card">
+    <div class="speaker-photo">
+      <img src="https://example.edu/photo.jpg" alt="Jane Doe"/>
+    </div>
+    <div class="speaker-info">
+      <strong>Jane Doe</strong><br/>
+      University of Example
+    </div>
+  </div>
 
-*To be announced*
+  -->
 
-<!--
-Example format:
-- **Speaker Name** (University/Institution) — "Paper Title"
-- **Speaker Name** (University/Institution) — "Paper Title"
--->
+</div>
 
-<br/>
-
-### Discussants
-
-*To be announced*
-
-<br/>
-
-### Keynote Speaker
-
-*To be announced*
+<!-- Speakers will be populated once the program is finalized -->

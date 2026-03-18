@@ -10,38 +10,35 @@ slug: /texas-monetary-conference
   <h3>May 1–2, 2026</h3>
 </div>
 
+<div class="conference-register">
+  <a class="register-button" href="#" target="_blank" rel="noopener noreferrer">Register for the Conference</a>
+  <!-- Replace the href="#" above with the registration link when available -->
+</div>
+
 ---
 
 <br/>
 
-The Texas Monetary Conference is an annual conference bringing together leading researchers in monetary economics, financial theory, and macroeconomics. The conference is hosted by the Department of Economics at Rice University.
+## Conference Program
 
 <br/>
 
-### Conference Details
+#### <u>Friday, May 1, 2026</u>
 
-**Dates:** May 1–2, 2026
+*Program details coming soon — please paste the program content from the Google Doc here.*
 
-**Location:** Rice University, Houston, TX
+<!-- Replace this placeholder with the actual program once you share the Google Doc contents -->
+
+<br/>
+
+#### <u>Saturday, May 2, 2026</u>
+
+*Program details coming soon.*
+
+<br/>
+
+---
 
 **Organizers:** Zach Bethune, Shihan Shen, and David Zhang
-
-<br/>
-
-### Registration
-
-Registration details will be announced soon. Please check back for updates.
-
-<!-- To register, please visit: <a style="color: #0b0e73" href="#" target="_blank" rel="noopener noreferrer">Registration Link</a> -->
-
-<br/>
-
-### Call for Papers
-
-Details on paper submissions and deadlines will be posted here.
-
-<br/>
-
-### Contact
 
 For questions about the conference, please contact <a style="color: #0b0e73" href="mailto:bethune@rice.edu">bethune@rice.edu</a>.

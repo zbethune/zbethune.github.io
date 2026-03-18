@@ -1,10 +1,10 @@
 ---
 layout: conference
-title: Logistics
-slug: /texas-monetary-conference/logistics
+title: Travel
+slug: /texas-monetary-conference/travel
 ---
 
-## Logistics
+## Travel & Accommodation
 
 ---
 
@@ -22,7 +22,7 @@ Houston, TX 77005
 
 <br/>
 
-### Getting to Rice University
+### Getting to Houston
 
 **By Air:**
 Houston is served by two airports:
@@ -36,23 +36,17 @@ Taxi, rideshare (Uber/Lyft), and rental cars are available from both airports.
 
 ### Accommodations
 
-The following hotels are conveniently located near Rice University:
+<!-- Fill in recommended hotels and any conference rate details -->
 
-- **Hotel ZaZa Houston** — 5701 Main Street (adjacent to campus)
-- **The Houston Marriott Medical Center** — 6580 Fannin Street
-- **Courtyard by Marriott Houston Medical Center** — 7702 Main Street
+*Hotel recommendations coming soon.*
 
 <br/>
 
 ### Parking
 
-Visitor parking is available on the Rice University campus. Details on parking locations and permits will be provided to registered attendees.
+<!-- Fill in campus parking details -->
 
-<br/>
-
-### Dining
-
-Houston is renowned for its diverse dining scene. Recommendations for restaurants near campus will be provided to attendees.
+*Parking details coming soon.*
 
 <br/>
 
