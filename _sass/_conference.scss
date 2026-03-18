@@ -1,0 +1,132 @@
+/**
+ * Conference site styles
+ */
+
+.conference-site {
+  .conference-header {
+    border-bottom: 2px solid #003366;
+  }
+
+  .conference-title {
+    font-family: "Futura", sans-serif;
+    font-size: 20px;
+    font-weight: 600;
+    color: #003366;
+    letter-spacing: 0;
+    margin-left: 0;
+
+    img {
+      display: none;
+    }
+
+    &,
+    &:visited {
+      color: #003366;
+    }
+
+    &:hover {
+      color: #003366;
+      text-decoration: none;
+    }
+
+    @include media-query($on-mobile) {
+      font-size: 16px;
+      line-height: 40px;
+    }
+  }
+}
+
+.conference-hero {
+  text-align: center;
+  padding: 30px 0 10px;
+
+  h1 {
+    font-family: "Futura", sans-serif;
+    font-weight: 600;
+    color: #003366;
+    font-size: 32px;
+    margin-bottom: 8px;
+
+    @include media-query($on-mobile) {
+      font-size: 24px;
+    }
+  }
+
+  h3 {
+    font-family: "Futura", sans-serif;
+    font-weight: 300;
+    color: $grey-color;
+    font-size: 18px;
+    margin-bottom: 4px;
+
+    @include media-query($on-mobile) {
+      font-size: 15px;
+    }
+  }
+}
+
+.conference-footer {
+  border-top: 2px solid #003366;
+}
+
+.conference-register {
+  text-align: center;
+  padding: 15px 0 5px;
+
+  .register-button {
+    display: inline-block;
+    padding: 12px 32px;
+    background-color: #003366;
+    color: #fff;
+    font-family: "Futura", sans-serif;
+    font-size: 16px;
+    font-weight: 600;
+    border-radius: 4px;
+    text-decoration: none;
+
+    &:hover {
+      background-color: darken(#003366, 8%);
+      color: #fff;
+      text-decoration: none;
+    }
+  }
+}
+
+.speaker-grid {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 30px;
+  margin-top: 20px;
+
+  @include media-query($on-mobile) {
+    gap: 20px;
+  }
+}
+
+.speaker-card {
+  width: 200px;
+  text-align: center;
+
+  @include media-query($on-mobile) {
+    width: 140px;
+  }
+
+  .speaker-photo img {
+    width: 160px;
+    height: 160px;
+    object-fit: cover;
+    border-radius: 50%;
+    border: 2px solid $grey-color-light;
+
+    @include media-query($on-mobile) {
+      width: 120px;
+      height: 120px;
+    }
+  }
+
+  .speaker-info {
+    margin-top: 10px;
+    font-size: 14px;
+    line-height: 1.4;
+  }
+}
