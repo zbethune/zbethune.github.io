@@ -13,13 +13,11 @@ slug: /texas-monetary-conference
 <!-- <div class="conference-register">
   <a class="register-button" href="#" target="_blank" rel="noopener noreferrer">Register for the Conference</a>
   <!-- Replace the href="#" above with the registration link when available -->
-</div> -->
+<!-- </div> --> -->
 
 ---
 
 ## Conference Program
-
-<br/>
 
 #### <u>Friday, May 1, 2026</u>
 <!-- Replace "Room location" with the actual room when confirmed -->
