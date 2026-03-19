@@ -3,6 +3,10 @@
  */
 
 .conference-site {
+  .wrapper {
+    max-width: 1000px;
+  }
+
   .conference-header {
     border-bottom: 2px solid #003366;
   }
@@ -14,7 +18,7 @@
     color: #003366;
     letter-spacing: 0;
     margin-left: 0;
-    margin-right: 30px;
+    padding-right: 30px;
 
     img {
       display: none;
