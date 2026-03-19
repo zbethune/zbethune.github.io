@@ -128,7 +128,7 @@ slug: /texas-monetary-conference/speakers
     </div>
   </div>
 
-  <div class="speaker-card">
+  <!-- <div class="speaker-card">
     <div class="speaker-photo">
       <img src="" alt="Lorie Logan"/>
     </div>
@@ -136,6 +136,6 @@ slug: /texas-monetary-conference/speakers
       <strong>Lorie Logan</strong><br/>
       Federal Reserve Bank of Dallas
     </div>
-  </div>
+  </div> -->
 
 </div>

@@ -36,17 +36,19 @@ Taxi, rideshare (Uber/Lyft), and rental cars are available from both airports.
 
 ### Accommodations
 
-<!-- Fill in recommended hotels and any conference rate details -->
+There are many hotels available within a short walk or drive from campus. Here are some options:
 
-*Hotel recommendations coming soon.*
+- <a style="color: #0b0e73" href="https://www.ihg.com/intercontinental/hotels/us/en/houston/houha/hoteldetail" target="_blank">InterContinental Houston - Medical Center</a>
+- <a style="color: #0b0e73" href="https://www.hotelzaza.com/houston" target="_blank">Hotel ZaZa Houston</a>
+- <a style="color: #0b0e73" href="https://www.hilton.com/en/hotels/houmchf-hilton-houston-plaza-medical-center/" target="_blank">Hilton Houston Plaza/Medical Center</a>
+- <a style="color: #0b0e73" href="https://www.bunkhousehotels.com/hotel-saint-augustine" target="_blank">Hotel Saint Augustine</a>
+- <a style="color: #0b0e73" href="https://www.hilton.com/en/hotels/housydt-doubletree-hotel-and-suites-houston-by-the-galleria/" target="_blank">DoubleTree by Hilton - Medical Center</a>
 
 <br/>
 
 ### Parking
 
-<!-- Fill in campus parking details -->
-
-*Parking details coming soon.*
+Visitors may park in the <a style="color: #0b0e73" href="https://parking.rice.edu/central-campus-garage" target="_blank">Central Campus Garage</a> at Rice University.
 
 <br/>
 

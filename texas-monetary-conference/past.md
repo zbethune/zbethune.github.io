@@ -42,8 +42,6 @@ slug: /texas-monetary-conference/past
 
 **May 1–2, 2026** — Rice University, Houston, TX
 
-*Organizers: Zach Bethune, Shihan Shen, and David Zhang*
-
 <!-- Add link to 2025 program PDF when available -->
 
 <br/>
