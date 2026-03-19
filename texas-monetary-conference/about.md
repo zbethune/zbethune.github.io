@@ -10,9 +10,7 @@ slug: /texas-monetary-conference/about
 
 <br/>
 
-The Texas Monetary Conference is an annual conference bringing together leading researchers in monetary economics, financial theory, and macroeconomics. The conference is hosted by the Department of Economics at Rice University in Houston, Texas.
-
-**Organizers:** Zach Bethune, Shihan Shen, and David Zhang
+The Texas Monetary Conference is an annual conference co-hosted by economics and finance departments in Texas (including the Dallas Fed, UT Austin, Texas A&M University, Southern Methodist University, University of Houston, and Rice University). The conference began in 1993 and aims to bring together leading researchers in macroeconomics and finance. 
 
 <br/>
 
@@ -21,8 +19,6 @@ The Texas Monetary Conference is an annual conference bringing together leading 
 ## The Texas Monetary Conference Story, 1993–2015
 
 <i>Mark A. Wynne, Federal Reserve Bank of Dallas</i>
-
-<br/>
 
 The idea for the Texas Monetary Conference grew out of a conversation between Evan Koenig and Scott Freeman in the cafeteria of the Dallas Fed sometime in 1992 or early 1993. The first conference was hosted by UT Austin in 1993, but jointly organized with the Dallas Fed, with UT (Scott) inviting 2/3 of the speakers and the Dallas Fed (Evan) inviting the other 1/3, with conference costs being allocated the same way. The original plan was that hosting responsibilities would flip to Dallas the following year, along with cost allocations, and that the conference would alternate between UT and the Dallas Fed every other year. However, after the success of the first conference the roster of hosting institutions was opened up to include Texas A&M, Rice University and SMU. The University of Houston joined later. The idea behind the conference was to grow the macroeconomics / monetary economics research community in Texas by bringing together researchers working in monetary economics broadly defined at the major research institutions to learn more about cutting edge research in the field. The model for the conference was to have presentations from prominent academics from outside Texas, with all discussants drawn from Texas universities. The idea was that the conference would take place in a different location each year, typically in the spring, with the host institution bearing the bulk of the costs and the other institutions making contributions towards overall costs. Over the years, the convention has evolved that the host institution organizes the program as well.
 

@@ -38,7 +38,7 @@ slug: /texas-monetary-conference/past
 
 ---
 
-<h3 id="2026">2026 Texas Monetary Conference</h3>
+<h3 id="2026">33rd — 2026 Texas Monetary Conference</h3>
 
 **May 1–2, 2026** — Rice University, Houston, TX
 
@@ -50,11 +50,9 @@ slug: /texas-monetary-conference/past
 
 ---
 
-<h3 id="2025">2025 Texas Monetary Conference</h3>
+<h3 id="2025">32nd — 2025 Texas Monetary Conference</h3>
 
 **April 24–25, 2025** — University of Texas at Austin, Austin, TX
-
-*Location: Third Floor Legacy Events Room, College of Business Administration (CBA), 2110 Speedway, Austin, TX 78705*
 
 **Thursday, April 24**
 
@@ -112,13 +110,9 @@ Discussant: Kei-Mu Yi
 
 ---
 
-<h3 id="2024">2024 Texas Monetary Conference</h3>
+<h3 id="2024">31st — 2024 Texas Monetary Conference</h3>
 
 **April 5–6, 2024** — Southern Methodist University, Dallas, TX
-
-*With the Federal Reserve Bank of Dallas, Rice University, Texas A&M University, University of Houston, and University of Texas at Austin*
-
-*Location: The Collins Center, Room 200*
 
 **Friday, April 5**
 
@@ -156,11 +150,9 @@ Discussant: Sewon Hur (Federal Reserve Bank of Dallas)
 
 ---
 
-<h3 id="2023">2023 Texas Monetary Conference</h3>
+<h3 id="2023">30th — 2023 Texas Monetary Conference</h3>
 
 **April 14–15, 2023** — University of Houston, Houston, TX
-
-*Location: CBB 120*
 
 **Friday, April 14**
 
@@ -200,23 +192,7 @@ Discussant: Fang Yang (Federal Reserve Bank of Dallas)
 
 ---
 
-<h3 id="2021">2021 Texas Monetary Conference</h3>
-
-<!-- Add link to 2025 program PDF when available -->
-
-<br/>
-
----
-
-<h3 id="2015">2015 Texas Monetary Conference</h3>
-
-<!-- Add link to 2025 program PDF when available -->
-
-<br/>
-
----
-
-<h3 id="2014">Twenty-First — October 4–5, 2014</h3>
+<h3 id="2014">21st — October 4–5, 2014</h3>
 
 **Federal Reserve Bank of Dallas**
 
@@ -258,7 +234,7 @@ Discussant: Tim Landvoigt (McCombs, UT Austin)
 
 ---
 
-<h3 id="2013">Twentieth — April 2013</h3>
+<h3 id="2013">20th — April 2013</h3>
 
 No formal records available. A conference mug inscribed for the "20th Texas Monetary Conference April 2013" includes a picture of Leonardo Auernheimer (1936–2010) and his cat.
 
@@ -266,7 +242,7 @@ No formal records available. A conference mug inscribed for the "20th Texas Mone
 
 ---
 
-<h3 id="2011">Nineteenth — April 30 – May 1, 2011</h3>
+<h3 id="2011">19th — April 30 – May 1, 2011</h3>
 
 **Southern Methodist University**
 
@@ -298,7 +274,7 @@ Discussant: Roy Jinnai (Texas A&M)
 
 ---
 
-<h3 id="2009">Seventeenth — December 11–12, 2009</h3>
+<h3 id="2009">17th — December 11–12, 2009</h3>
 
 **UT Austin — "20 Years of Search Theory in Money and Finance"**
 
@@ -354,7 +330,7 @@ Discussant: Erwan Quintin (FRB Dallas)
 
 ---
 
-<h3 id="2008">Sixteenth — May 3–4, 2008</h3>
+<h3 id="2008">16th — May 3–4, 2008</h3>
 
 **Federal Reserve Bank of Dallas**
 
@@ -398,7 +374,7 @@ Discussant: Hagen Kim (Texas A&M)
 
 ---
 
-<h3 id="2007">Fifteenth — April 21–22, 2007</h3>
+<h3 id="2007">15th — April 21–22, 2007</h3>
 
 **Rice University**
 
@@ -438,7 +414,7 @@ Discussant: Dietrich Vollrath (University of Houston)
 
 ---
 
-<h3 id="2006">Fourteenth — April 29–30, 2006</h3>
+<h3 id="2006">14th — April 29–30, 2006</h3>
 
 **Texas A&M University**
 
@@ -478,7 +454,7 @@ Discussant: Alejandro Izquierdo (Inter-American Development Bank)
 
 ---
 
-<h3 id="2005">Thirteenth — April 1–2, 2005</h3>
+<h3 id="2005">13th — April 1–2, 2005</h3>
 
 **UT Austin**
 
@@ -530,7 +506,7 @@ Discussant: John Bryant (Rice University)
 
 ---
 
-<h3 id="2004">Twelfth — April 24–25, 2004</h3>
+<h3 id="2004">12th — April 24–25, 2004</h3>
 
 **Southern Methodist University**
 
@@ -570,7 +546,7 @@ Discussant: Juan-Carlos Cordoba (Rice University)
 
 ---
 
-<h3 id="2003">Eleventh — March 28–29, 2003</h3>
+<h3 id="2003">11th — March 28–29, 2003</h3>
 
 **University of Houston / Federal Reserve Bank of Dallas, Houston Branch**
 
@@ -610,7 +586,7 @@ Discussant: Bent Sorensen (University of Houston)
 
 ---
 
-<h3 id="2002">Tenth — March 1–2, 2002</h3>
+<h3 id="2002">10th — March 1–2, 2002</h3>
 
 **UT Austin**
 
@@ -620,7 +596,7 @@ Presenters included: <span style="color: #0b0e73"><b>Costas Azariadis</b></span>
 
 ---
 
-<h3 id="2001">Ninth — March 31 – April 1, 2001</h3>
+<h3 id="2001">9th — March 31 – April 1, 2001</h3>
 
 **Rice University**
 
@@ -660,7 +636,7 @@ Discussant: Sebnem Kalemli-Ozcan (University of Houston)
 
 ---
 
-<h3 id="2000">Eighth — April 21–22, 2000</h3>
+<h3 id="2000">8th — April 21–22, 2000</h3>
 
 **Texas A&M University**
 
@@ -700,7 +676,7 @@ Discussant: Jim Dolmas (SMU)
 
 ---
 
-<h3 id="1999">Seventh — April 24–25, 1999</h3>
+<h3 id="1999">7th — April 24–25, 1999</h3>
 
 **Federal Reserve Bank of Dallas**
 
@@ -740,7 +716,7 @@ Discussant: Chris Sleet (UT Austin)
 
 ---
 
-<h3 id="1997">Fifth — April 12–13, 1997</h3>
+<h3 id="1997">5th — April 12–13, 1997</h3>
 
 **Southern Methodist University**
 
@@ -750,7 +726,7 @@ Presenters included: <span style="color: #0b0e73"><b>Larry Jones</b></span> (Nor
 
 ---
 
-<h3 id="1996">Fourth — 1996</h3>
+<h3 id="1996">4th — 1996</h3>
 
 **Rice University**
 
@@ -760,7 +736,7 @@ Presenters included: <span style="color: #0b0e73"><b>Craig Burnside</b></span>, 
 
 ---
 
-<h3 id="1995">Third — April 1–2, 1995</h3>
+<h3 id="1995">3rd — April 1–2, 1995</h3>
 
 **Texas A&M University**
 
@@ -770,7 +746,7 @@ Presenters included: <span style="color: #0b0e73"><b>Lawrence J. Christiano</b><
 
 ---
 
-<h3 id="1994">Second — April 23–24, 1994</h3>
+<h3 id="1994">2nd — April 23–24, 1994</h3>
 
 **Federal Reserve Bank of Dallas**
 
@@ -780,7 +756,7 @@ Presenters included: <span style="color: #0b0e73"><b>Mark A. Thoma</b></span> (U
 
 ---
 
-<h3 id="1993">First — 1993</h3>
+<h3 id="1993">1st — 1993</h3>
 
 **UT Austin**
 
