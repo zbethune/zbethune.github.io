@@ -117,14 +117,15 @@
   }
 
   .speaker-photo img {
-    height: 200px;
-    width: auto;
+    width: 160px;
+    height: 160px;
     object-fit: cover;
-    border-radius: 4px;
-    border: 1px solid $grey-color-light;
+    border-radius: 50%;
+    border: 2px solid $grey-color-light;
 
     @include media-query($on-mobile) {
-      height: 150px;
+      width: 120px;
+      height: 120px;
     }
   }
 
