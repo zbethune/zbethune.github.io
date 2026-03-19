@@ -158,7 +158,43 @@ Discussant: Sewon Hur (Federal Reserve Bank of Dallas)
 
 <h3 id="2023">2023 Texas Monetary Conference</h3>
 
-<!-- Program details to be added -->
+**April 14–15, 2023** — University of Houston, Houston, TX
+
+*Location: CBB 120*
+
+**Friday, April 14**
+
+9:45 &nbsp;&nbsp;&nbsp; <span style="color: #0b0e73"><b>Noémie Pinardon-Touati (Columbia University)</b></span>, "The Crowding Out Effect of Local Government Debt: Micro and Macro Estimates"
+<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+Discussant: Radek Paluszynski (University of Houston)
+
+11:00 &nbsp;&nbsp;&nbsp; <span style="color: #0b0e73"><b>Karthik A. Sastry (Harvard University)</b></span>, "The Macroeconomics of Narratives" (with Joel P. Flynn)
+<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+Discussant: Karel Mertens (Federal Reserve Bank of Dallas)
+
+1:30 &nbsp;&nbsp;&nbsp; <span style="color: #0b0e73"><b>Ivan Werning (MIT)</b></span>, "Expectations and the Rate of Inflation"
+<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+Discussant: Olivier Coibion (University of Texas at Austin)
+
+2:45 &nbsp;&nbsp;&nbsp; <span style="color: #0b0e73"><b>Cynthia Wu (Notre Dame)</b></span>, "(Un)conventional Monetary and Fiscal Policy" (with Yinxi Xie)
+<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+Discussant: Yoon Joo Jo (Texas A&M University)
+
+4:00 &nbsp;&nbsp;&nbsp; <span style="color: #0b0e73"><b>Robert S. Kaplan (former President, Federal Reserve Bank of Dallas)</b></span>, "Reflections on the U.S. Economy and Monetary Policy"
+
+**Saturday, April 15**
+
+8:30 &nbsp;&nbsp;&nbsp; <span style="color: #0b0e73"><b>Christian Wolf (MIT)</b></span>, "Can Deficits Finance Themselves?" (with George-Marios Angeletos and Chen Lian)
+<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+Discussant: Sarah Zubairy (Texas A&M University)
+
+9:40 &nbsp;&nbsp;&nbsp; <span style="color: #0b0e73"><b>Julieta Caunedo (University of Toronto)</b></span>, "Capital Embodied Structural Change" (with Elisa Keller)
+<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+Discussant: Michael Sposi (Southern Methodist University)
+
+10:50 &nbsp;&nbsp;&nbsp; <span style="color: #0b0e73"><b>Dean Corbae (University of Wisconsin)</b></span>, "Equilibrium Eviction" (with Andrew Glover and Michael Nattinger)
+<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+Discussant: Fang Yang (Federal Reserve Bank of Dallas)
 
 <br/>
 
