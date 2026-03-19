@@ -13,7 +13,8 @@ slug: /texas-monetary-conference
 <!-- <div class="conference-register">
   <a class="register-button" href="#" target="_blank" rel="noopener noreferrer">Register for the Conference</a>
   <!-- Replace the href="#" above with the registration link when available -->
-<!-- </div> --> -->
+<!-- </div> -->
+ <!-- --> -->
 
 ---
 
@@ -23,11 +24,7 @@ slug: /texas-monetary-conference
 <!-- Replace "Room location" with the actual room when confirmed -->
 <i>Room location TBA</i>
 
-<br/>
-
 8:30–9:00 &nbsp;&nbsp;&nbsp; *Breakfast — Coffee and Pastries*
-
-<br/>
 
 9:00–9:50 &nbsp;&nbsp;&nbsp; "Worker Mobility and Labor Misallocation: Evidence from Mortgage Lock-In"
 <br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -49,7 +46,7 @@ Discussant: <a style="color: #0b0e73" href="https://luisperezecon.com/" target="
 <br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 Presenter: <a style="color: #0b0e73" href="https://jguerreiro.com/" target="_blank"><b>Joao Guerreiro (UCLA)</b></a>
 <br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-Discussant: <a style="color: #0b0e73" href="https://www.dallasfed.org/research/economists/martinez-garcia" target="_blank">Enrique Martinez-Garcia (Dallas Fed)</a>
+Discussant: <a style="color: #0b0e73" href="https://www.dallasfed.org/research/economists/martinezgarcia" target="_blank">Enrique Martinez-Garcia (Dallas Fed)</a>
 
 > 11:50–1:00 &nbsp;&nbsp;&nbsp; *Lunch*
 
@@ -83,9 +80,9 @@ Presenter: <a style="color: #0b0e73" href="https://sites.google.com/view/carolin
 <br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 Discussant: TBA
 
-> 4:50–5:30 &nbsp;&nbsp;&nbsp; *Reception*
+> 4:50–5:30 &nbsp;&nbsp;&nbsp; *Break*
 
-5:30–7:00 &nbsp;&nbsp;&nbsp; **Keynote Lectures and Policy Panel: <a style="color: #0b0e73" href="https://www.johnhcochrane.com/" target="_blank">John Cochrane</a>**
+5:15–6:30 &nbsp;&nbsp;&nbsp; **Keynote Lecture: <a style="color: #0b0e73" href="https://www.johnhcochrane.com/" target="_blank">John Cochrane</a>**
 
 > 7:30 &nbsp;&nbsp;&nbsp; *Conference Dinner (by invitation)*
 
@@ -99,11 +96,7 @@ Discussant: TBA
 <!-- Replace "Room location" with the actual room when confirmed -->
 <i>Room location TBA</i>
 
-<br/>
-
 8:30–9:00 &nbsp;&nbsp;&nbsp; *Breakfast — Coffee and Pastries*
-
-<br/>
 
 9:00–9:50 &nbsp;&nbsp;&nbsp; "Firm Specialization vs. Diversification" with Anmol Bhandari, Sanhitha Jugulum, and Laura Veldkamp
 <br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -117,7 +110,7 @@ Discussant: <a style="color: #0b0e73" href="https://www.jaedochoi.com/" target="
 <br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 Presenter: <a style="color: #0b0e73" href="https://sites.google.com/view/amy-handlan" target="_blank"><b>Amy Handlan (Brown)</b></a>
 <br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-Discussant: TBA
+Discussant: <a style="color: #0b0e73" href="https://www.yunusaybas.com/" target="_blank">Yunus Aybas (Texas A&M)</a>
 
 > 10:50–11:00 &nbsp;&nbsp;&nbsp; *Break*
 
