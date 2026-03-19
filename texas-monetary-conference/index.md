@@ -5,15 +5,15 @@ slug: /texas-monetary-conference
 ---
 
 <div class="conference-hero">
-  <h1>The Texas Monetary Conference</h1>
+  <h1>The 2026 Texas Monetary Conference</h1>
   <h3>Rice University, Houston, TX</h3>
   <h3>May 1–2, 2026</h3>
 </div>
 
-<div class="conference-register">
+<!-- <div class="conference-register">
   <a class="register-button" href="#" target="_blank" rel="noopener noreferrer">Register for the Conference</a>
   <!-- Replace the href="#" above with the registration link when available -->
-</div>
+</div> -->
 
 ---
 

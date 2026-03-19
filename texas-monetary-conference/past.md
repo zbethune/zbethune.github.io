@@ -10,7 +10,10 @@ slug: /texas-monetary-conference/past
 
 <br/>
 
-- [2025 — Rice University](#2025)
+- [2026 — Rice University](#2026)
+- [2025 - UT Austin](#2025)
+- [2024 - Southern Methodist Univeristy](#2024)
+- [2023 - University of Houston](#2023)
 - [2014 — Federal Reserve Bank of Dallas](#2014)
 - [2013 — 20th Texas Monetary Conference](#2013)
 - [2011 — Southern Methodist University](#2011)
@@ -35,11 +38,141 @@ slug: /texas-monetary-conference/past
 
 ---
 
-<h3 id="2025">2025 Texas Monetary Conference</h3>
+<h3 id="2026">2026 Texas Monetary Conference</h3>
 
-**May 1–2, 2025** — Rice University, Houston, TX
+**May 1–2, 2026** — Rice University, Houston, TX
 
 *Organizers: Zach Bethune, Shihan Shen, and David Zhang*
+
+<!-- Add link to 2025 program PDF when available -->
+
+<br/>
+
+---
+
+<h3 id="2025">2025 Texas Monetary Conference</h3>
+
+**April 24–25, 2025** — University of Texas at Austin, Austin, TX
+
+*Location: Third Floor Legacy Events Room, College of Business Administration (CBA), 2110 Speedway, Austin, TX 78705*
+
+**Thursday, April 24**
+
+1:10 &nbsp;&nbsp;&nbsp; <span style="color: #0b0e73"><b>Alp Simsek (Yale)</b></span>, "Financial Conditions Targeting"
+<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+Discussant: Karel Mertens
+
+2:00 &nbsp;&nbsp;&nbsp; <span style="color: #0b0e73"><b>Sushant Acharya (University of Melbourne)</b></span>, "Self-fulfilling fluctuations in HANK economies"
+<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+Discussant: Michael Sockin
+
+3:00 &nbsp;&nbsp;&nbsp; <span style="color: #0b0e73"><b>Jane Ryngaert (Notre Dame)</b></span>, "Job Search, Wages, and Inflation"
+<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+Discussant: Yoon Joo Jo
+
+3:50 &nbsp;&nbsp;&nbsp; <span style="color: #0b0e73"><b>Yeji Sung (Federal Reserve Bank of San Francisco)</b></span>, "Inflation Surprises and Perception of Inflation Risks"
+<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+Discussant: Oliver Pfaeuti
+
+4:40 &nbsp;&nbsp;&nbsp; <span style="color: #0b0e73"><b>Virgiliu Midrigan (NYU)</b></span>, "The Inflation Accelerator"
+<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+Discussant: Shihan Shen
+
+**Friday, April 25**
+
+9:30 &nbsp;&nbsp;&nbsp; <span style="color: #0b0e73"><b>Mathieu Pedemonte (IADB)</b></span>, "The Causal Effects of Expected Depreciations"
+<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+Discussant: Andrew Fieldhouse
+
+10:20 &nbsp;&nbsp;&nbsp; <span style="color: #0b0e73"><b>Alonso Villacorta (UC Santa Cruz)</b></span>, "(Unobserved) Heterogeneity in the bank lending channel: Accounting for bank-firm interactions and specialization"
+<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+Discussant: Aaron Pancost
+
+11:20 &nbsp;&nbsp;&nbsp; <span style="color: #0b0e73"><b>Michael Waugh (Federal Reserve Bank of Minneapolis)</b></span>, "Heterogeneous Agent Trade"
+<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+Discussant: Hyunju Lee
+
+1:10 &nbsp;&nbsp;&nbsp; <span style="color: #0b0e73"><b>Hugo L'hullier (University of Chicago, Columbia University)</b></span>, "The Local Root of Wage Inequality"
+<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+Discussant: Rocio Madera
+
+2:00 &nbsp;&nbsp;&nbsp; <span style="color: #0b0e73"><b>Olivia Bordeu (Princeton University, UC Berkeley)</b></span>, "Commuting Infrastructure in Fragmented Cities"
+<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+Discussant: Luis Perez
+
+3:00 &nbsp;&nbsp;&nbsp; <span style="color: #0b0e73"><b>Levi Crews (UCLA)</b></span>, "Agriculture, Trade, and the Spatial Efficiency of Global Water Use"
+<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+Discussant: Pedro Bento
+
+3:50 &nbsp;&nbsp;&nbsp; <span style="color: #0b0e73"><b>Andres Rodriguez Clare (UC Berkeley)</b></span>, "Quantifying Carbon Emissions in the Global Economy"
+<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+Discussant: Kei-Mu Yi
+
+<br/>
+
+---
+
+<h3 id="2024">2024 Texas Monetary Conference</h3>
+
+**April 5–6, 2024** — Southern Methodist University, Dallas, TX
+
+*With the Federal Reserve Bank of Dallas, Rice University, Texas A&M University, University of Houston, and University of Texas at Austin*
+
+*Location: The Collins Center, Room 200*
+
+**Friday, April 5**
+
+9:20 &nbsp;&nbsp;&nbsp; <span style="color: #0b0e73"><b>Burcu Eyigungor (Federal Reserve Bank of Philadelphia)</b></span>, "Heterogeneity in the Credit Card Market" (with Satyajit Chatterjee)
+<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+Discussant: Zach Bethune (Rice University)
+
+10:50 &nbsp;&nbsp;&nbsp; <span style="color: #0b0e73"><b>Chang-Tai Hsieh (University of Chicago)</b></span>, "Bias in the CPI" (with David Argente and Munseob Lee)
+<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+Discussant: Ron Mau (Federal Reserve Bank of Dallas)
+
+1:30 &nbsp;&nbsp;&nbsp; <span style="color: #0b0e73"><b>Ufuk Akcigit (University of Chicago)</b></span>, "Committing to Grow: Privatizations and Firm Dynamics in East Germany" (with Harun Alp, André Diegmann, and Nicholas Serrano-Velarde)
+<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+Discussant: Dietrich Vollrath (University of Houston)
+
+3:00 &nbsp;&nbsp;&nbsp; <span style="color: #0b0e73"><b>Michael Waugh (Federal Reserve Bank of Minneapolis)</b></span>, "Pricing Inequality" (with Simon Mongey)
+<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+Discussant: Andres Drenik (University of Texas at Austin)
+
+4:30 &nbsp;&nbsp;&nbsp; <span style="color: #0b0e73"><b>Corina Boar (NYU)</b></span>, "Why Are Returns to Private Business Wealth So Dispersed?" (with Denis Gorea and Virgiliu Midrigan)
+<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+Discussant: Luiz Perez (University of Minnesota)
+
+**Saturday, April 6**
+
+9:10 &nbsp;&nbsp;&nbsp; <span style="color: #0b0e73"><b>Danial Lashkari (Boston College)</b></span>, "Capital-Skill Complementarity in Firms and in the Aggregate" (with Giuseppe Berlingieri, Filippo Boeri, and Jonathan Vogel)
+<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+Discussant: Pedro Bento (Texas A&M University)
+
+10:40 &nbsp;&nbsp;&nbsp; <span style="color: #0b0e73"><b>Ariel Burstein (UCLA)</b></span>, "A Sufficient Statistics Approach to Measuring Forward-Looking Welfare" (with David Baqaee and Yasutaka Koike-Mori)
+<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+Discussant: Sewon Hur (Federal Reserve Bank of Dallas)
+
+<br/>
+
+---
+
+<h3 id="2023">2023 Texas Monetary Conference</h3>
+
+<!-- Program details to be added -->
+
+<br/>
+
+---
+
+<h3 id="2021">2021 Texas Monetary Conference</h3>
+
+<!-- Add link to 2025 program PDF when available -->
+
+<br/>
+
+---
+
+<h3 id="2015">2015 Texas Monetary Conference</h3>
 
 <!-- Add link to 2025 program PDF when available -->
 
