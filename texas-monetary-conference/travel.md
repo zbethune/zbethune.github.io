@@ -12,7 +12,7 @@ slug: /texas-monetary-conference/travel
 
 ### Venue
 
-The conference will be held at **Rice University** in Houston, Texas.
+The conference will be held at **Rice University** in Houston, Texas. Conference room TBA
 
 **Address:**<br/>
 Department of Economics<br/>
@@ -48,10 +48,10 @@ There are many hotels available within a short walk or drive from campus. Here a
 
 ### Parking
 
-Visitors may park in the <a style="color: #0b0e73" href="https://parking.rice.edu/central-campus-garage" target="_blank">Central Campus Garage</a> at Rice University.
+Visitors may park in the <a style="color: #0b0e73" href="https://business.rice.edu/about/directions-and-parking" target="_blank">Central Campus Garage</a> at Rice University.
 
 <br/>
 
 ### Contact
 
-For logistical questions, please contact <a style="color: #0b0e73" href="mailto:bethune@rice.edu">bethune@rice.edu</a>.
+For logistical questions, please contact Tangie Robertson <a style="color: #0b0e73" href="mailto:tangie.robertson@rice.edu">tangie.robertson@rice.edu</a>.
