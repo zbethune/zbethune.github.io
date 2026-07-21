@@ -10,14 +10,16 @@ slug: /conferences
 
 ### ***Upcoming***
 
-- <a style="color: #0b0e73" href="./assets/pdfs/" target="_blank" rel="noopener noreferrer" color="blue">***2026 Texas Monetary Conference (co-organized with Shihan Shen and David Zhang)*** </a>  - May 1-2, 2025, Rice University
 
-- <a style="color: #0b0e73" href="./assets/pdfs/" target="_blank" rel="noopener noreferrer" color="blue">***2026 LEMMA Monetary Conference (co-organized with Sebastien Lotz and Guillaume Rochteau)*** </a>  - May 28-29, 2026, Paris, France
 
 
 <br />
 
 ### ***Past***
+
+- <a style="color: #0b0e73" href="./assets/pdfs/2026 Texas Monetary Conference - Program.pdf" target="_blank" rel="noopener noreferrer" color="blue">***2026 Texas Monetary Conference (co-organized with Shihan Shen and David Zhang)*** </a>  - May 1-2, 2025, Rice University
+
+- <a style="color: #0b0e73" href="./assets/pdfs/2026 LEMMA Workshop on Money, Banking and Finance - Program.pdf" target="_blank" rel="noopener noreferrer" color="blue">***2026 LEMMA Monetary Conference (co-organized with Sebastien Lotz and Guillaume Rochteau)*** </a>  - May 28-29, 2026, Paris, France
 
 - <a style="color: #0b0e73" href="./assets/pdfs/rice_consumption_conf_program.pdf" target="_blank" rel="noopener noreferrer" color="blue">***2025 Mini-conference on Household Consumption (co-organized with Shihan Shen)*** </a>  - October 24, 2025, Rice University
 
