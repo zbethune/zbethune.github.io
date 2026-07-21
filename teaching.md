@@ -16,11 +16,11 @@ slug: /teaching
 
 ### ***Past***
 #### Instructor
-- **Rice - Money and Banking (Undergraduate)** (Spring 2023, 2025)
+- **Rice - Money and Banking (Undergraduate)** (Spring 2023, 2025, 2027)
 
-- **Rice - Macroeconomic Theory I (1st-year PhD)** (Fall 2022, 2023, 2024)
+- **Rice - Macroeconomic Theory I (1st-year PhD)** (Fall 2022, 2023, 2024, 2025, 2026)
 
-- **Rice - Topics in Macroeconomics I (2nd-year PhD)** (Fall 2023, 2024)
+- **Rice - Topics in Macroeconomics I (2nd-year PhD)** (Fall 2023, 2024, 2025, 2026)
 
 - **UVa - Macro Field Course (Ph.D.) - Decentralized Markets in Macroeconomics and Finance** (Fall 2019, Fall 2020, Fall 2021)
 
