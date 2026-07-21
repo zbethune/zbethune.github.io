@@ -5,7 +5,7 @@ profile_picture:
   alt: website picture
 ---
 
-## Associate Professor
+## L. Douglas Lee Associate Professor of Macroeconomics
 <p style="margin-bottom:-.30cm;"></p>
 
 #### Department of Economics
@@ -32,6 +32,8 @@ profile_picture:
 <p style="margin-bottom:.70cm;"></p> 
 
 ##### **Other Affiliations**
+<p style="margin-bottom:-.40cm;"></p>
+- Associate Editor at the <a style="color: #0b0e73" href="https://www.sciencedirect.com/journal/journal-of-economic-dynamics-and-control/about/editorial-board" target="_blank" rel="noopener noreferrer" color="blue">***Journal of Economic Dynamics and Control***</a>
 <p style="margin-bottom:-.40cm;"></p>
 - Associate Editor at the <a style="color: #0b0e73" href="https://www.sciencedirect.com/journal/european-economic-review/about/editorial-board" target="_blank" rel="noopener noreferrer" color="blue">***European Economic Review***</a>
 <p style="margin-bottom:-.40cm;"></p>
