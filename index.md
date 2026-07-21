@@ -36,7 +36,7 @@ profile_picture:
 
 ##### **Other Affiliations**
 <p style="margin-bottom:-.40cm;"></p>
-- Associate Editor at the <a style="color: #0b0e73" href="https://www.sciencedirect.com/journal/journal-of-economic-dynamics-and-control/about/editorial-board" target="_blank" rel="noopener noreferrer" color="blue">***Journal of Economic Dynamics and Control***</a>
+- Associate Editor at the <a style="color: #0b0e73" href="https://www.sciencedirect.com/journal/journal-of-economic-dynamics-and-control/about/editorial-board" target="_blank" rel="noopener noreferrer" color="blue">***JEDC***</a>
 <p style="margin-bottom:-.40cm;"></p>
 - Associate Editor at the <a style="color: #0b0e73" href="https://www.sciencedirect.com/journal/european-economic-review/about/editorial-board" target="_blank" rel="noopener noreferrer" color="blue">***European Economic Review***</a>
 <p style="margin-bottom:-.40cm;"></p>
