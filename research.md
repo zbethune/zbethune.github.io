@@ -9,6 +9,10 @@ slug: /research
 <br />
 
 ### ***Published Papers***
+
+-  "__Inflation and Unemployment in the Long Run Revisited__" (2026), joint with Michael Choi, Sebastien Lotz, and Guillaume Rocheteau. <span style="color: blue"> ***accepted at the Economic Journal*** </span>
+> <a href="./assets/pdfs/BCLR_June26.pdf" target="_blank" rel="noopener noreferrer">[Working paper version]</a>
+
 -  "__Unemployment and the Distribution of Liquidity__" (2023), joint with Guillaume Rocheteau. <span style="color: blue"> ***Journal of Political Economy: Macroeconomics*** </span>
     > <a href="./assets/pdfs/JPE_Macro_MS220025_final.pdf" target="_blank" rel="noopener noreferrer">[Working paper version]</a> <a href="https://www.journals.uchicago.edu/doi/10.1086/727797" target="_blank" rel="noopener noreferrer">[Published version]</a> <a href="./assets/pdfs/JPE_Macro_MS220025_online_appendix.pdf" target="_blank" rel="noopener noreferrer">[Supplementary Appendix]</a> 
 
@@ -58,19 +62,20 @@ slug: /research
 > <span style="color: blue"> *R&R at the Journal of Political Economy: Macroeconomics* </span>
 <a href="./assets/pdfs/BSY_May25.pdf" target="_blank" rel="noopener noreferrer">[PDF]</a> <br> <a style="color: #a80f0f"> </a>
 
--  "__Inflation and Unemployment in the Long Run Revisited__", joint with Michael Choi, Sebastien Lotz, and Guillaume Rocheteau. 
-> <span style="color: blue"> *R&R at the Economic Journal* </span>
-<a href="./assets/pdfs/BCLR_May25.pdf" target="_blank" rel="noopener noreferrer">[PDF]</a> <br> <a style="color: #a80f0f"> </a>
+-  "__Consumer Search, Market Power, and the Distributional Effects of Inflation__", joint with Shihan Shen.
+<a href="./assets/pdfs/market_power_inflation_071426.pdf" target="_blank" rel="noopener noreferrer">[PDF]</a> <br> <a style="color: #a80f0f"> </a>
 
 <br />
 
 
 ### ***Work in Progress***
--  "__Consumer Search, Market Power, and the Distributional Effects of Inflation__", joint with Shihan Shen
+
 
 - "__Optimal Central Bank Balance Sheets with Incomplete Markets__"
 
 -  "__A Theory of Money and Banking__", joint with Thomas Brzustowski and Bruno Sultanum
+
+- "__Monetary Policy Implementation and Treasury Market Liquidity__", joint with Nicole Fleskes
 
 <!-- - "__Helicopter Drops, Inflation, and the Labor Market__", joint with Guillaume Rocheteau -->
 
