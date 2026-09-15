@@ -29,6 +29,7 @@ profile_picture:
 <p style="margin-bottom:-.40cm;"></p> 
 
 "**Consumer Search, Market Power, and the Distributional Effects of Inflation**" (2026) with Shihan Shen <a href="./assets/pdfs/market_power_inflation_071426.pdf" target="_blank" rel="noopener noreferrer">[PDF]</a> <br> <a style="color: #a80f0f"> </a> 
+<a style="color: #0b0e73" href="https://www.youtube.com/live/8UhbAe3BOoc?si=IrAIk0Ho5W5ogLDL&t=341" target="_blank" rel="noopener noreferrer">[NBER SI Micro & Macro Models presentation]</a>
 <p style="margin-bottom:.70cm;"></p> 
 
 ##### **Other Affiliations**
