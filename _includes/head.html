@@ -40,6 +40,7 @@
   <title>{{ page_title }}</title>
   <meta name="title" content="{{ page_title }}"/>
   <meta name="description" content="{{ page_description }}"/>
+  {% if page.noindex %}<meta name="robots" content="noindex"/>{% endif %}
 
   <!-- Open Graph / Facebook -->
   <meta property="og:site_name" content="{{ page_title }}"/>
